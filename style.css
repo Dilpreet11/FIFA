@@ -1,0 +1,56 @@
+.carousel-item img {
+    height : 80vh;
+    /* width: 100px; */
+}
+
+.navbar-brand img {
+    height: 30px;
+    width: 60px;
+}
+
+.image img {
+  height: 50vh;
+   width: 50vh; 
+   margin-left: -67px ;
+   margin-top: 43px;
+   margin-right: 8px;
+  
+}
+
+.icons {
+margin-top: -5%;
+
+}
+.icons a{
+    text-decoration:none;
+    color: aliceblue;
+}
+
+.container1 {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container2{
+    background-image: url(10.jpg);
+    margin: 10px;
+    margin-right: 5px;
+    height : 70vh;
+     width: 98%; 
+
+}
+
+.container5{
+    width: 70%;
+    margin-right:40px; 
+    margin-left: 70px;
+}
+
+.carousel-caption{
+    margin: -20px;
+}
